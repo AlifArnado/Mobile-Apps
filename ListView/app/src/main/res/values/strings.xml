@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Modul 4</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="jurusan">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informatika</item>
+        <item>Komputerisasi Akuntansi</item>
+        <item>Teknik Komputer</item>
+    </string-array>
+
+</resources>
